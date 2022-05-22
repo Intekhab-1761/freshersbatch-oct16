@@ -1,7 +1,4 @@
-Assignments goes here!
-<<<<<<< HEAD
+Assignments goes here for CSS!
+Master branch
+In branch html-assignments
 
-#Master branch
-=======
-#In branch html-assignments
->>>>>>> html-assignments
