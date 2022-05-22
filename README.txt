@@ -1,10 +1,4 @@
-<
-Assignments goes here!
+Assignments oes here!
 Master branch
 In branch html-assignments
-=======
-Assignments goes here!
-Master branch
-In branch html-assignments
->>>>>>> css-assignments
 
