@@ -1,4 +1,4 @@
-Assignments oes here!
+Assignments goes here!
 Master branch
 In branch html-assignments
 
